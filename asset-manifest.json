@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fga-reactjs-todolist/static/css/main.063a88f4.css",
+    "main.js": "/fga-reactjs-todolist/static/js/main.ff4e8533.js",
+    "static/js/787.a5cad257.chunk.js": "/fga-reactjs-todolist/static/js/787.a5cad257.chunk.js",
+    "index.html": "/fga-reactjs-todolist/index.html",
+    "main.063a88f4.css.map": "/fga-reactjs-todolist/static/css/main.063a88f4.css.map",
+    "main.ff4e8533.js.map": "/fga-reactjs-todolist/static/js/main.ff4e8533.js.map",
+    "787.a5cad257.chunk.js.map": "/fga-reactjs-todolist/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.063a88f4.css",
+    "static/js/main.ff4e8533.js"
+  ]
+}
